@@ -1,0 +1,32 @@
+.languages:hover {
+    color: rebeccapurple;
+}
+
+h1, h2, h3 {
+    background-color: gray;
+}
+
+h2 {
+    font-style: italic;
+}
+
+a[href] {
+    color:orange
+}
+
+p:not(.hidden) {
+    color: green
+}
+
+h1[title="welcome"] {
+    color: blue
+}
+
+ul:first-of-type {
+    color:brown
+}
+
+a:hover {
+    color: pink
+}
+
